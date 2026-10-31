@@ -23,7 +23,6 @@
 1. 确保你的浏览器已安装 [Tampermonkey](https://www.tampermonkey.net/)（篡改猴）扩展。
 2. 点击下方链接安装本脚本：
    👉 **[点此安装脚本 (Raw 链接)](https://raw.githubusercontent.com/takinaye8-lang/chaoxing-study-helper/main/chaoxing-study-helper.user.js)** 
-   *(注：请确保仓库中存在 `chaoxing-study-helper.user.js` 文件，且上面的链接与你的仓库地址一致)*
 3. 安装完成后，打开学习通网课页面，右下角会出现控制面板，打开总开关并点击“启动”即可。
 
 ## 🛠️ 已知限制
